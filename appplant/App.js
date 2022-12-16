@@ -5,7 +5,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>App Plant</Text>
-      <Image source={require('./assets/jadeplant.png')} />
     </View>
   );
 }
