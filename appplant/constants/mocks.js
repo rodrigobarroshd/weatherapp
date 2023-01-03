@@ -45,11 +45,29 @@ const categories = [
 ];
 
 const products = [
+    {
+        id: 1,
+        name: '',
+        description: '',
+        tags: ['Interior', '27m', 'Ideias'],
+        gallery: [
+            require('../assets/images/plants_'.png)
+        ]
+    }
 
 ];
 
 const explore = [
+    
     // images
+    require('../assets/images/explore_1.png'),
+    require('../assets/images/explore_2.png'),
+    require('../assets/images/explore_3.png'),
+    require('../assets/images/explore_4.png'),
+    require('../assets/images/explore_5.png'),
+    require('../assets/images/explore_6.png'),
+
+
 ];
 
 const profile = {
@@ -58,6 +76,8 @@ const profile = {
 
 export {
     categories,
+    explore,
     products,
     profile,
+
 }
