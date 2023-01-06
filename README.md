@@ -1,3 +1,3 @@
 # Plant App
-React native
+React native JavaScript
 Plant App
