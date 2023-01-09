@@ -1,3 +1,3 @@
 # Plant App
-React native JavaScript
+Kotlin
 Plant App
